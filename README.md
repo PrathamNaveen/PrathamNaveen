@@ -33,7 +33,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-### 🛠️ Languages & Tools
 <p align="center">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" title="C"/>
@@ -51,31 +50,30 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="30" title="Azure"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="30" title="Vercel"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="30" title="Google Cloud"/>
-  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" height="30" title="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height="30" title="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="30" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="30" title="Firebase"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="30" title="Terraform"/>
 
   <!-- Frameworks & Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="30" title="FastAPI"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="30" title="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30" title="Express.js"/>
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" height="30" title="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="30" title="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" title="React Native"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="30" title="Next.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="30" title="Angular"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" title="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/shadcn/icons/main/icons/shadcn.svg" height="30" title="ShadCN"/>
-  <img src="https://raw.githubusercontent.com/dotnet/brand/main/dotnet-logo/dotnet-logo.svg" height="30" title=".NET"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" title="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="30" title=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="30" title="TensorFlow"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="30" title="Nginx"/>
 
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" title="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" title="SQLite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="30" title="SQLite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="30" title="Redis"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" height="30" title="RabbitMQ"/>
 
@@ -93,6 +91,7 @@
   <img src="https://numpy.org/images/logo.svg" height="30" title="NumPy"/>
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="30" title="Pandas"/>
 </p>
+
 
 ---
 
